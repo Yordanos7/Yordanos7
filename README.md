@@ -13,7 +13,6 @@
 📫 Contact Me
 📧 Email: yordanosyohans7@gmail.com
 🌐 Portfolio: https://yordanos-portfolio.vercel.app
-🐦 Twitter: (Add your Twitter link here)
 🔗 LinkedIn: www.linkedin.com/in/yordanos-yohans-204b292ab
 
 
