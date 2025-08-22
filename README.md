@@ -14,6 +14,9 @@
 📧 Email: yordanosyohans7@gmail.com
 🌐 Portfolio: https://yordanos-portfolio.vercel.app
 🔗 LinkedIn: www.linkedin.com/in/yordanos-yohans-204b292ab
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
