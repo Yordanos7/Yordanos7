@@ -31,6 +31,7 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=radical&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yordanos7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 
