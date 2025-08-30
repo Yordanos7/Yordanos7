@@ -21,6 +21,8 @@
 
 
 
+![GitHub Snake Light](https://raw.githubusercontent.com/Yordanos7/Yordanos7/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Yordanos7/Yordanos7/output/snake.svg#gh-dark-mode-only)
 
 
 
@@ -32,7 +34,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)
+
 
 
 
