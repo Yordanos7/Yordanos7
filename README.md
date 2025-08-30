@@ -32,7 +32,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Yordanos's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yordanos7&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
