@@ -20,8 +20,8 @@
 
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Yordanos7/Yordanos7/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Yordanos7/Yordanos7/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Yordanos7/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Yordanos7/output/snake.svg#gh-dark-mode-only)
 
 
 
