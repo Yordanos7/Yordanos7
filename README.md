@@ -9,7 +9,7 @@
 💞️ Looking to Collaborate On
 ✅ Real-world full-stack web applications
 ✅ Open-source projects
-✅ Projects involving React, Node.js, PHP, and Laravel
+✅ Projects involving React, Node.js, PHP
 📫 Contact Me
 📧 Email: yordanosyohans7@gmail.com
 🌐 Portfolio: https://yordanos-portfolio.vercel.app
