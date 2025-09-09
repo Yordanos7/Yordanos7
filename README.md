@@ -3,7 +3,7 @@
 
         👀 About Me
 🚀 Passionate about building scalable and user-friendly web applications
-🌱 Currently sharpening my skills in PHP and MySQL
+🌱 Currently sharpening my skills in TypeScript and MySQL
 🛠️ Experienced with JavaScript, React, Node.js, Express, MongoDB, and Tailwind CSS
 💡 Interested in backend development and mastering full-stack technologies
 💞️ Looking to Collaborate On
