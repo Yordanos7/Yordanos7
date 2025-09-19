@@ -20,7 +20,7 @@
 
 
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Yordanos7/Yordanos7/output/snake.svg#gh-dark-mode-only)
+
 
 
 
