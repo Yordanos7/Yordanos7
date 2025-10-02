@@ -48,16 +48,14 @@
 
 ---
 
-
-
-
-
 ![Yordanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yordanos7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yordanos7&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=radical)  
 
-
-
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yordanos-yohans-204b292ab)  
+- 📂 [Portfolio](https://yordanos-portfolio.vercel.app)  
+- 📧 Email: **yordanosyohans7@gmail.com** 
 
 
 
