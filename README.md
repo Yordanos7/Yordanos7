@@ -31,7 +31,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 
 ---
-
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff)  
@@ -39,7 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 ---
-
 ### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
@@ -54,16 +52,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+![Yordanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yordanos7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yordanos7&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Yordanos7&theme=radical)  
 
 
 
