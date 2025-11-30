@@ -8,6 +8,7 @@
 🌱 Currently sharpening my skills in **TypeScript** and **MySQL**  
 🛠️ Experienced with **JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS**  
 💡 Interested in backend development and mastering full-stack technologies  
+ Building apps with react native!
 
 
 ---
