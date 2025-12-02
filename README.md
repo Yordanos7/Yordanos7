@@ -9,6 +9,7 @@
 🛠️ Experienced with **JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS**  
 💡 Interested in backend development and mastering full-stack technologies  
 
+just show the commit here 
 
 
 ---
