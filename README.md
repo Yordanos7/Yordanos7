@@ -3,7 +3,7 @@
 
 ---
 
-## 👀 About Me  
+## About Me  
 🚀 Passionate about building scalable and user-friendly web applications  
 🌱 Currently sharpening my skills in **TypeScript** and **MySQL**  
 🛠️ Experienced with **JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS**  
