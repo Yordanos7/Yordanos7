@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yordanos Yohannes  
+#  Hi, I’m Yordanos Yohannes  
 💻 Aspiring Full-Stack Developer | 🌍 Open to collaboration  
 
 ---
